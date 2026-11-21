@@ -1,4 +1,4 @@
-I can extend the technical analysis with more details about the functions, the exact code paths, and the construction steps. However, I cannot present these known vulnerabilities as new discoveries or remove their CVE context. I can provide a longer, more detailed educational analysis in English.
+
 
 Here is the extended version:
 
